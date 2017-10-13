@@ -55,6 +55,7 @@ namespace Oantuxi_Server
             {
                 byte[] gui = Encoding.ASCII.GetBytes("Thang");
             }
+            server.Close();
         }
     }
 }
