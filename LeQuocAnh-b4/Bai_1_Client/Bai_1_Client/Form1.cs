@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Bai_1
+namespace Bai_1_Client
 {
     public partial class Form1 : Form
     {
@@ -17,7 +17,7 @@ namespace Bai_1
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
