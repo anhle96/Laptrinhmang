@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuong_trinh_Multicast", "Chuong_trinh_Multicast\Chuong_trinh_Multicast.csproj", "{00905143-6EEC-4065-AB5C-3D4AB96AE30F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_gui", "Multicast_gui\Multicast_gui.csproj", "{542FC468-7BCC-4A74-B989-8F77D0E627AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_nhan", "Multicast_nhan\Multicast_nhan.csproj", "{64B1D6CE-6880-48EC-A289-DAE1270460FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{00905143-6EEC-4065-AB5C-3D4AB96AE30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00905143-6EEC-4065-AB5C-3D4AB96AE30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00905143-6EEC-4065-AB5C-3D4AB96AE30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542FC468-7BCC-4A74-B989-8F77D0E627AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542FC468-7BCC-4A74-B989-8F77D0E627AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542FC468-7BCC-4A74-B989-8F77D0E627AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542FC468-7BCC-4A74-B989-8F77D0E627AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B1D6CE-6880-48EC-A289-DAE1270460FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B1D6CE-6880-48EC-A289-DAE1270460FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B1D6CE-6880-48EC-A289-DAE1270460FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B1D6CE-6880-48EC-A289-DAE1270460FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
